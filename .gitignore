@@ -1,0 +1,5 @@
+data/
+img/
+MNIST/
+models/
+__pycache__
